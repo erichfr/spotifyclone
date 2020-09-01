@@ -1,1 +1,1 @@
-# http://erichfr1.github.io/spotifyclone
+# http://erichfr1.github.io/spotifyclone/
